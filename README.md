@@ -1,3 +1,8 @@
+## Reference
+https://github.com/TixiaoShan/LIO-SAM/issues/206
+https://github.com/TixiaoShan/LIO-SAM/issues/314
+
+
 # LIO-SAM
 
 **A real-time lidar-inertial odometry package. We strongly recommend the users read this document thoroughly and test the package with the provided dataset first. A video of the demonstration of the method can be found on [YouTube](https://www.youtube.com/watch?v=A0H8CoORZJU).**
